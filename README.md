@@ -13,8 +13,8 @@
 
 Hi, I'm Allwyn Joseph, an inquisitive AI resercher based in Paris. 
 - I currently work at [AZmed](https://azmed.co/), helping develop anomaly detection within medical images using Deep Learning algorithms.
-- On the side, I'm also learning C++.
-- In the months to come, I'd like to get my hands dirty with Bash, Data Structures and Algorithms and if time permits JavaScript
+- On the side, I'm also learning C++. JavaScript, React.
+- In the months to come, I'd like to get my hands dirty with Data Structures and Algorithms.
 
 
 **Languages and Tools:**  
